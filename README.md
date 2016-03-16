@@ -5,10 +5,8 @@ Kelas		: TP-B PAGI
 A.	Baca artikel yang ditulis oleh Turing di majalah Computing Machinery and Intelligence pada tahun 1950 di alamat ini: http://www.loebner.net/Prizef/TuringArticle.html. Kemudian tuliskan sebuah artikel yang berisi argumentasi anda. 
 1.	Apakah anda setuju atau tidak dengan pendapat Turing ?
 Saya Setuju dengan pendapat Turing yang mengatakan bahwa jika komputer tidak lagi bisa dibedakan dengan manusia maka komputer tersebut telah mampu “berpikir”. Sekalipun mesin komputer yang memiliki Artificial Intelligence tetap saja tidak bisa dibandingkan dengan kecerdasan & kemampuan manusia. Mesin komputer hanya bisa menyerupai kecerdasan manusia tetapi tidak bisa melampai kecerdasan manusia. Sebagai contoh adalah berbagai macam robot yang telah diciptakan menggantikan pekerjaan manusia saat ini namun robot hanya bekerja ketika di perintahkan.
-
 2.	Apakah menurut anda, akan ada komputer yang bisa melewati Tes Turing suatu saat?
  Menurut saya kemungkinan besar akan ada robot yang dapat melewati Tes Turing tersebut. Ini dapat dilihat dari perkembangan teknologi yang semakin berkembang pesat saat ini. Dan faktanya manusia adalah orang yang tidak pernah puas dengan apa yang telah dicapainya, manusia selalu mersa kurang puas dan selalu mencoba terus menerus. Sehingga besar kemungkinan akan muncul teknologi-teknologi baru yang akan dibuat sesuai dengan kebutuhan manusia sekarang ini dan akan terus dikembangkan lagi. Suatu saat mesin akan mampu melewati tes turing meskipun dalam waktu yang cukup panjang.
-
 3.	Halangan apa saja yang menurut anda menghambat perkembangan komputer untuk melewati Tes Turing?
 	Hambatan yang tidak dapat dicapai pada komputer/robot yaitu komputer/robot yang diciptakan belum memiliki sebuah perasaan dan emosi. Sehingga robot belum dapat dikatakan sama dengan kecerdasan manusia.
 	Hambatan Artificial Inteligence yang lain yaitu hanya dapat melaksanakan perintah dan belum dapat berfikir seperti maanusia untuk melakukan sesuatu atau memutuskan sesuatu.
